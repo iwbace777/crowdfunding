@@ -16,9 +16,6 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 define("SITE_NAME", 'KickGifter');
 define("HOST_SERVER", $_SERVER['SERVER_NAME']);
-define("INFOBIP_USERNAME", 'varaa6');
-define("INFOBIP_PASSWORD", 'varaa12');
-define("CENTILI_APIKEY", '74b885dcac47d253d1af4186e0ba55cc');
 
 define("DEFAULT_GIFT_IMAGE", 'default.jpg');
 
